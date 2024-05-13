@@ -1,0 +1,4 @@
+1.- modal
+2.- deploy github
+3.- v-text - v-html - v-model - v-bind - (v-if - v-show - v-for - binding de estilos)
+4.- :src
